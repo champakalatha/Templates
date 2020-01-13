@@ -34,7 +34,7 @@
 			{
             		"Description": "SSH Keypair to use to launch the instance",
             		"Type": "String",
-            		"Default": "test-21-11-2019"
+            		"Default": "aws_VM_keyPair"
         		}
 		},
 	"Resources": 
